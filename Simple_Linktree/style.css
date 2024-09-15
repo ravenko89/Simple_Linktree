@@ -1,0 +1,29 @@
+body {
+    Background-color: rgb(60, 61, 155) ;
+    Color: white ;
+    Text-align: center
+   }
+   
+   img {
+    Border-radius: 100px ;
+    margin: 10px ;
+   }
+   
+   h2 {
+    font-size: 25px ;
+   }
+
+   p {
+    font-size: 20px;
+   }
+
+   a {
+    Background-color: white ;
+    Color: blue ;
+    font-size: 20px ;
+    Border-radius: 50px ;
+    Margin: 10px ;
+    Padding: 10px ;
+    display: block ;
+    text-align: center ;
+   }
